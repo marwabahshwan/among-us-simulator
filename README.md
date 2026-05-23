@@ -2,7 +2,7 @@
 
 A complete, text-based simulation of the popular game **Among Us**, developed entirely within the C# console environment.
 
-![Project Banner](أضيفي_هنا_اسم_صورة_البوستر_حقكم.png)
+![Project Banner](banner.png)
 
 ---
 
